@@ -1,0 +1,10 @@
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Memento\bin\Release\Pattern Memento.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Memento\bin\Release\Pattern Memento.pdb
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Memento\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Memento\obj\x86\Release\Pattern Memento.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Memento\obj\x86\Release\Pattern Memento.pdb
+C:\Users\Julia\Desktop\C#Projects\Pattern Memento\Pattern Memento\bin\Release\Pattern Memento.exe
+C:\Users\Julia\Desktop\C#Projects\Pattern Memento\Pattern Memento\bin\Release\Pattern Memento.pdb
+C:\Users\Julia\Desktop\C#Projects\Pattern Memento\Pattern Memento\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\C#Projects\Pattern Memento\Pattern Memento\obj\x86\Release\Pattern Memento.exe
+C:\Users\Julia\Desktop\C#Projects\Pattern Memento\Pattern Memento\obj\x86\Release\Pattern Memento.pdb
